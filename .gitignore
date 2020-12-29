@@ -1,0 +1,10 @@
+Log/
+.idea/
+Temp/
+composer.lock
+composer.json
+Upload/
+doc.html
+easyDoc.html
+dev.php
+produce.php
